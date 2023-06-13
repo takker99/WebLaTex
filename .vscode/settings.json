@@ -1,0 +1,5 @@
+{
+    "latex-workshop.view.pdf.color.dark.pageColorsBackground": "",
+    "latex-workshop.view.pdf.color.dark.pageColorsForeground": "",
+    "latex-workshop.latex.recipe.default": "latexmk (lualatex)"
+}
